@@ -7,6 +7,20 @@
   <a href="#citation">Citation</a>
 </center>
 
+## Local research notes
+
+The 29 October 2026 audit documents the release's capabilities and limitations:
+
+- [Architecture, custom training and reproduction](docs/echoavatar-research.md).
+- [Official weights, pinned download links and provenance](docs/model-weights.md).
+- [Comparison with our original Grok and recovered Animates research](docs/grok-animates-comparison.md).
+- [Fork asset archive, Unity project and local training downloads](docs/asset-archive.md).
+
+This fork versions the downloaded models, Unity release, editable Unity source
+and paper with Git LFS. Run `git lfs install` and `git lfs pull` after cloning.
+The editable Unity project is in `echoavatar_unity/` (Unity 6000.0.58f1).
+Optional training archives stay local; their checksums and sources are documented.
+
 ## Release Plans
 
 - [x] Real-time deployment code.

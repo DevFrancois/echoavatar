@@ -1,5 +1,21 @@
-# Large checkpoints are hosted on Hugging Face.
-ckpts/
+# Downloaded checkpoints are versioned through Git LFS.
+# Keep download metadata and temporary transfers local.
+**/.cache/
+*.part
+*.incomplete
+
+# Training datasets are downloaded locally, not redistributed with this fork.
+/downloads/training-data/
+
+# Unity-generated state; the original release ZIP preserves the shipped copy.
+/echoavatar_unity/[Ll]ibrary/
+/echoavatar_unity/[Tt]emp/
+/echoavatar_unity/[Oo]bj/
+/echoavatar_unity/[Bb]uild/
+/echoavatar_unity/[Bb]uilds/
+/echoavatar_unity/[Ll]ogs/
+/echoavatar_unity/[Uu]ser[Ss]ettings/
+/echoavatar_unity/.vs/
 
 # Keep datasets local; split lists are tracked explicitly.
 data*

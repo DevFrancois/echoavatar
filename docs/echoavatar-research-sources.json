@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-10-29T13:01:36.028765+00:00",
+  "scope": "Documentation/source/official metadata audit; no EchoAvatar inference, training, full weight download or local full-weight hash verification.",
+  "echoavatar": {
+    "origin": "https://github.com/RobinWitch/EchoAvatar",
+    "commit": "ecf2fff1a1cc3abb829d12b44db86c613c87ddcf",
+    "hash_basis": "Committed source bytes at this revision, before the added local documentation; README working-tree edits are intentionally excluded.",
+    "sources": [
+      {
+        "path": "readme.md",
+        "size_bytes": 14457,
+        "sha256": "c2d3cd49ecea614699102f849d4e20bd572ebfb8ac3ed9edf53a4b088a5e009c",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/readme.md"
+      },
+      {
+        "path": "LICENSE",
+        "size_bytes": 1068,
+        "sha256": "2ed24120b35e2b22969e1e66dd2c5fbb43863738db0f8c262ef2fc0906f6443e",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/LICENSE"
+      },
+      {
+        "path": "requirements.txt",
+        "size_bytes": 494,
+        "sha256": "b56c7f0b277f7a2f953e57d1616c62197cb953277803d8c45b0097667ef2a90c",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/requirements.txt"
+      },
+      {
+        "path": "process_zm_dataset.py",
+        "size_bytes": 19399,
+        "sha256": "63d325f3ea5d8dc4b6150d236249961de8bab36e14fc16240eeab4ed561c3ef1",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/process_zm_dataset.py"
+      },
+      {
+        "path": "vq_train_bp_30fps_wandb_attn_poolmlp.py",
+        "size_bytes": 27343,
+        "sha256": "93b73c5e7f7fa9e08095c253ae27604cbbf745433fb8fd4f3f9fb877c090457e",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/vq_train_bp_30fps_wandb_attn_poolmlp.py"
+      },
+      {
+        "path": "scripts/5_streaming_vllm_unity_30fps_bp_attn4_encodec2_multirvq_nbc512_motionexample_withface_ik.py",
+        "size_bytes": 91295,
+        "sha256": "a41552b7da494f7d9cca23ebc4841c052df38854674181ff2836065612e463c7",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/scripts/5_streaming_vllm_unity_30fps_bp_attn4_encodec2_multirvq_nbc512_motionexample_withface_ik.py"
+      },
+      {
+        "path": "models/vq/casual_vqvae.py",
+        "size_bytes": 92419,
+        "sha256": "7b3417640ec046b2c9c7c7469d8ed32f22d5c3756c5a52ee0fd2d50ab22d2551",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/models/vq/casual_vqvae.py"
+      },
+      {
+        "path": "models/dit_flowmatching_mhubert_v3.py",
+        "size_bytes": 37445,
+        "sha256": "6766342f426ff3f2af0593817d7e2e979b57958660f61fe31e5969092b7711f1",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/models/dit_flowmatching_mhubert_v3.py"
+      },
+      {
+        "path": "refers/encodec/encodec/model.py",
+        "size_bytes": 12769,
+        "sha256": "edb61be57f97127fe3423c03796f9f6b2f53c808dc3939dd4db3b54d5aa7d51f",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/refers/encodec/encodec/model.py"
+      },
+      {
+        "path": "tools/prepare_bvh_format.py",
+        "size_bytes": 26296,
+        "sha256": "bd26a6da96b2fdaf79cee2b2b40b9e08efb0993029a74a941f8d6ccc067a1bef",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/tools/prepare_bvh_format.py"
+      },
+      {
+        "path": "tools/motionbuilder_retarget_batch.py",
+        "size_bytes": 64948,
+        "sha256": "a8077e89ac2d97a788854777c2682ba23e662c9252c138d19bc99a4d52abf654",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/tools/motionbuilder_retarget_batch.py"
+      },
+      {
+        "path": "utils/swing_only_ik.py",
+        "size_bytes": 73681,
+        "sha256": "9ae131e517ea8e10653f9359a3751f67781ea9f2fbf0966fb25fe91183aabe57",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/utils/swing_only_ik.py"
+      },
+      {
+        "path": "stats/body_mean_std_30fps.npy",
+        "size_bytes": 4376,
+        "sha256": "abb6b47959492699c27e066e3d49880651229cb1944a3ac18662902f90cc4bb4",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/stats/body_mean_std_30fps.npy"
+      },
+      {
+        "path": "stats/arkit_mean_std_30fps.npy",
+        "size_bytes": 838,
+        "sha256": "50c43ba3d76f7ad6bac382504ca9a40a44992a5f048c7949747b4ac7e3da5e34",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/stats/arkit_mean_std_30fps.npy"
+      },
+      {
+        "path": "stats/zm_meta_info.npz",
+        "size_bytes": 7444,
+        "sha256": "1a1d0b02bf98ab50ed33cf794646d34353dca90006792bb17a0e62ffa4570248",
+        "url": "https://github.com/RobinWitch/EchoAvatar/blob/ecf2fff1a1cc3abb829d12b44db86c613c87ddcf/stats/zm_meta_info.npz"
+      }
+    ]
+  },
+  "grok_animates": {
+    "path_from_echo_docs": "../../grok/codex/valentine-audio-motion",
+    "commit": "59a79dc614103d66a0dfd9290a9ba362c964f846",
+    "hash_basis": "Local source document bytes read during this audit; no changes made to the comparison project.",
+    "sources": [
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/STATUS.md",
+        "size_bytes": 10447,
+        "sha256": "8d88827ea2a281e2ef0d89fe6d50153ea8039abc29dd8344f69ef8051f034bdb"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/UNRESOLVED.md",
+        "size_bytes": 33798,
+        "sha256": "a319e46c696871066c1dbd7399a4bd6a9c7ca6eb0e5190dc05c897d0b0e1946e"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/PROVENANCE.md",
+        "size_bytes": 6195,
+        "sha256": "46343a0791500725e7161b5c8ba953045e1ae9c20d7423ca2544fabdb95416c1"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/model-comparison.txt",
+        "size_bytes": 6588,
+        "sha256": "26e3e7a1d12378af8565c9be51d6f8295458fc2f487658bd94385690757bf969"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/hand-motion.txt",
+        "size_bytes": 5404,
+        "sha256": "f5105baccce0987c3aa18b8cbf52a353d8fa717662908a505f3d0156c6de703a"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/coreml-checkpoint.txt",
+        "size_bytes": 4435,
+        "sha256": "ee4e9c3ee21945cdfa58f78b270bc04ccdeb093b5988da7572cde78539d23674"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/full-motion-checkpoint.md",
+        "size_bytes": 13337,
+        "sha256": "cf889a5b33a03e279b0bbd9f38e3c428cce646d58a263eca44d91b734dcd9a38"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/bridge-motion-checkpoint.md",
+        "size_bytes": 11301,
+        "sha256": "022e9cb4f0d8713dcdb53258d7b19af69146adf006b9fd7e4805ba02e9d12201"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/bridge-enabled-controls.md",
+        "size_bytes": 7411,
+        "sha256": "22f2fe3342109fe039f4b5a2134d619a68b252f9687b64a86de9993c2d6eea2c"
+      },
+      {
+        "path_from_echo_docs": "../../grok/codex/valentine-audio-motion/docs/speech-start-transition.md",
+        "size_bytes": 16846,
+        "sha256": "3718e4d684a2cd2ccde7d6ffbf59677b39da779e2bae15b534f1183107d8be56"
+      },
+      {
+        "path_from_echo_docs": "../../grok/claude/04_ondevice_motion_generation.md",
+        "size_bytes": 31030,
+        "sha256": "3882acb1b7395d7997099845166b657506783f5030ec8a658ecc565d18f7cb8e"
+      },
+      {
+        "path_from_echo_docs": "../../grok/claude/evidence/motion-generator/model_io.json",
+        "size_bytes": 7275,
+        "sha256": "fb0894d647a8ace2a7205313f9a0560616a48b83bef742265d9c0e7925facd3f"
+      }
+    ]
+  },
+  "paper": {
+    "title": "EchoAvatar: Real-time Generative Avatar Animation from Audio Streams",
+    "arxiv_version": "2605.28272v1",
+    "landing_url": "https://arxiv.org/abs/2605.28272",
+    "html_url": "https://arxiv.org/html/2605.28272v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.28272v1",
+    "doi_url": "https://doi.org/10.1145/3799902.3811066",
+    "project_url": "https://robinwitch.github.io/EchoAvatar-Page/"
+  },
+  "weights_manifest": "echoavatar-weights-manifest.json",
+  "evidence_limits": [
+    "Model-file LFS hashes are server-reported, not computed from local weight bytes.",
+    "Body tensor counts/dtypes are from the earlier bounded safetensors-header inspection; raw tensor arrays were not loaded.",
+    "Local server_test additions were not modified or treated as an upstream training release.",
+    "Historical Grok/Animates notes may contain superseded status; current STATUS.md and UNRESOLVED.md qualify those claims."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "additional_special_tokens": [
+    "<|audio_start|>",
+    "<|audio_end|>",
+    "<|motion_start|>",
+    "<|motion_end|>",
+    "<|reserved_special_token_69|>",
+    "<|reserved_special_token_70|>",
+    "<|reserved_special_token_71|>",
+    "<|reserved_special_token_72|>",
+    "<|reserved_special_token_73|>",
+    "<|reserved_special_token_74|>",
+    "<|reserved_special_token_75|>",
+    "<|reserved_special_token_76|>",
+    "<|reserved_special_token_77|>",
+    "<|reserved_special_token_78|>",
+    "<|reserved_special_token_79|>",
+    "<|reserved_special_token_80|>",
+    "<|reserved_special_token_81|>",
+    "<|reserved_special_token_82|>",
+    "<|reserved_special_token_83|>",
+    "<|reserved_special_token_84|>",
+    "<|reserved_special_token_85|>",
+    "<|reserved_special_token_86|>",
+    "<|reserved_special_token_87|>",
+    "<|reserved_special_token_88|>",
+    "<|reserved_special_token_89|>"
+  ],
+  "eos_token": {
+    "content": "<|im_end|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "pad_token": {
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  }
+}

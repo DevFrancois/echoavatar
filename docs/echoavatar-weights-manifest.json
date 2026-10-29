@@ -1,0 +1,283 @@
+{
+  "checked_at_utc": "2026-10-29T12:53:22.093464+00:00",
+  "method": "Official Hugging Face API metadata only; no model tensors downloaded or local hashes verified. LFS SHA-256 values are server-reported.",
+  "repos": [
+    {
+      "repo": "robinwitch/EchoAvatar",
+      "revision": "69cb06bf4918f1c52cc276ca796bbff97c643b70",
+      "api_url": "https://huggingface.co/api/models/robinwitch/EchoAvatar?blobs=true",
+      "gated": false,
+      "card_data": null,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "size_bytes": 1649,
+          "git_blob_id": "7820164912d5745a4880d8ceb1b2579a6894c14d",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/.gitattributes"
+        },
+        {
+          "path": "ckpts/body_g/added_tokens.json",
+          "size_bytes": 431622,
+          "git_blob_id": "c009389cf969af103d7255cfae81022c2e311f68",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/added_tokens.json"
+        },
+        {
+          "path": "ckpts/body_g/chat_template.jinja",
+          "size_bytes": 2507,
+          "git_blob_id": "bdf7919a96cfe43d50914a007b9c0877bd0ec27e",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/chat_template.jinja"
+        },
+        {
+          "path": "ckpts/body_g/config.json",
+          "size_bytes": 1228,
+          "git_blob_id": "a8e5765f450fcac451e4ef330e9240ed71c31a8f",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/config.json"
+        },
+        {
+          "path": "ckpts/body_g/generation_config.json",
+          "size_bytes": 242,
+          "git_blob_id": "b8f7c4f98a407078e2c032b87e48fb5f4e307a0e",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/generation_config.json"
+        },
+        {
+          "path": "ckpts/body_g/merges.txt",
+          "size_bytes": 1671853,
+          "git_blob_id": "31349551d90c7606f325fe0f11bbb8bd5fa0d7c7",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/merges.txt"
+        },
+        {
+          "path": "ckpts/body_g/model.safetensors",
+          "size_bytes": 1313245824,
+          "git_blob_id": "1b0dfaf2882a7dc0d6a40dd8a238fe1d0654db57",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/model.safetensors",
+          "server_reported_lfs_sha256": "290b1ac6a46fc99b7ab0a7f6d7402f070eea80bd20515e00108f6f19088141cc"
+        },
+        {
+          "path": "ckpts/body_g/special_tokens_map.json",
+          "size_bytes": 1196,
+          "git_blob_id": "ea71616fc972c6e721c9a15092464bce29203055",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/special_tokens_map.json"
+        },
+        {
+          "path": "ckpts/body_g/tokenizer.json",
+          "size_bytes": 14301988,
+          "git_blob_id": "e1117911f96b002a3f32dd56b51d897a002dabfd",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/tokenizer.json",
+          "server_reported_lfs_sha256": "ea3e11198e43042d6d86e72559c5b1427bbaacd95e5a7a3ec1cd77f8f23bed18"
+        },
+        {
+          "path": "ckpts/body_g/tokenizer_config.json",
+          "size_bytes": 2735111,
+          "git_blob_id": "ca4a51e250f6cada7745ca0fe72812b5a285ad76",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/tokenizer_config.json"
+        },
+        {
+          "path": "ckpts/body_g/vocab.json",
+          "size_bytes": 2776833,
+          "git_blob_id": "4783fe10ac3adce15ac8f358ef5462739852c569",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g/vocab.json"
+        },
+        {
+          "path": "ckpts/body_g_d/added_tokens.json",
+          "size_bytes": 431622,
+          "git_blob_id": "c009389cf969af103d7255cfae81022c2e311f68",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/added_tokens.json"
+        },
+        {
+          "path": "ckpts/body_g_d/chat_template.jinja",
+          "size_bytes": 2507,
+          "git_blob_id": "bdf7919a96cfe43d50914a007b9c0877bd0ec27e",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/chat_template.jinja"
+        },
+        {
+          "path": "ckpts/body_g_d/config.json",
+          "size_bytes": 1228,
+          "git_blob_id": "a8e5765f450fcac451e4ef330e9240ed71c31a8f",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/config.json"
+        },
+        {
+          "path": "ckpts/body_g_d/generation_config.json",
+          "size_bytes": 242,
+          "git_blob_id": "b8f7c4f98a407078e2c032b87e48fb5f4e307a0e",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/generation_config.json"
+        },
+        {
+          "path": "ckpts/body_g_d/merges.txt",
+          "size_bytes": 1671853,
+          "git_blob_id": "31349551d90c7606f325fe0f11bbb8bd5fa0d7c7",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/merges.txt"
+        },
+        {
+          "path": "ckpts/body_g_d/model.safetensors",
+          "size_bytes": 1313245824,
+          "git_blob_id": "c4a6d7db250a40c8799abf9596068117a3ef9b2b",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/model.safetensors",
+          "server_reported_lfs_sha256": "19b862f9c015944ae857ee7319f77902061e705856549aa140573fc3cd54cfeb"
+        },
+        {
+          "path": "ckpts/body_g_d/special_tokens_map.json",
+          "size_bytes": 1196,
+          "git_blob_id": "ea71616fc972c6e721c9a15092464bce29203055",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/special_tokens_map.json"
+        },
+        {
+          "path": "ckpts/body_g_d/tokenizer.json",
+          "size_bytes": 14301988,
+          "git_blob_id": "e1117911f96b002a3f32dd56b51d897a002dabfd",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/tokenizer.json",
+          "server_reported_lfs_sha256": "ea3e11198e43042d6d86e72559c5b1427bbaacd95e5a7a3ec1cd77f8f23bed18"
+        },
+        {
+          "path": "ckpts/body_g_d/tokenizer_config.json",
+          "size_bytes": 2735111,
+          "git_blob_id": "ca4a51e250f6cada7745ca0fe72812b5a285ad76",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/tokenizer_config.json"
+        },
+        {
+          "path": "ckpts/body_g_d/vocab.json",
+          "size_bytes": 2776833,
+          "git_blob_id": "4783fe10ac3adce15ac8f358ef5462739852c569",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_g_d/vocab.json"
+        },
+        {
+          "path": "ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_hands_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_60000.pth",
+          "size_bytes": 133360467,
+          "git_blob_id": "4cc36817a01f06fae5c6c9d2849990757a0b8433",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_hands_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_60000.pth",
+          "server_reported_lfs_sha256": "21963f3f271368111d201c7f84013b63a875e2327c227d4f240000426f206c25"
+        },
+        {
+          "path": "ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_lower_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_65000.pth",
+          "size_bytes": 132806995,
+          "git_blob_id": "c7878615600e7ee3df0c59a073b73046a7b292bf",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_lower_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_65000.pth",
+          "server_reported_lfs_sha256": "34821923a8be44a56140cb3be27c3bb9dff7e6235c6b34c97492e1697cee32dc"
+        },
+        {
+          "path": "ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_upper_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_54000.pth",
+          "size_bytes": 132991507,
+          "git_blob_id": "83ddba806a8b52eed82bed5867a15cb374747f21",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/body_rvqvae/RVQVAE_PoolingMLP_bp_upper_nb-code_512_commit-0.5_loss-pos-l1-0.02_loss-pos-vel-l1-0.2_loss-pos-acc-l1-0.2_loss-trans-vel-l1_smooth-10_depth-3_loss-foot-contact-label-l1-0.3_loss-foot-pos-l1-0.05_dropout-0_num_quantizers-6_lookback-15/net_54000.pth",
+          "server_reported_lfs_sha256": "4a340497bd835e0db47d81b02d81e743862d9a9b795a9f3f6d36cb29b95a602b"
+        },
+        {
+          "path": "ckpts/face/llf_v3_FaceGPT_CE_audio_norm_dit_flowmatching_mhubert_augment_ws-64_layers-6_heads-8_feat-512_bs-128_diffusion-layers-3_hidden-size-64/gpt_80000.pth",
+          "size_bytes": 382222347,
+          "git_blob_id": "0596d399cc6fe4f050ddc2399fc9f79331c0dd80",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/ckpts/face/llf_v3_FaceGPT_CE_audio_norm_dit_flowmatching_mhubert_augment_ws-64_layers-6_heads-8_feat-512_bs-128_diffusion-layers-3_hidden-size-64/gpt_80000.pth",
+          "server_reported_lfs_sha256": "b00f72003cf05d778422359f4d2adcc2d007f817bd9732a28ff5ee54babc9ddc"
+        },
+        {
+          "path": "echoavatar_unity.zip",
+          "size_bytes": 1298653715,
+          "git_blob_id": "cd48688355cedb008c6b3f24cfabd2e821347c6f",
+          "url": "https://huggingface.co/robinwitch/EchoAvatar/resolve/69cb06bf4918f1c52cc276ca796bbff97c643b70/echoavatar_unity.zip",
+          "server_reported_lfs_sha256": "ebb70e8dfc33a0121fc1e03216a4e86ca514e80b2e89a9df7655504e7842d1ed"
+        }
+      ]
+    },
+    {
+      "repo": "robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3",
+      "revision": "030c06e33a8b8feb094b0a92f023ddd80599793e",
+      "api_url": "https://huggingface.co/api/models/robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3?blobs=true",
+      "gated": false,
+      "card_data": null,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "size_bytes": 1519,
+          "git_blob_id": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+          "url": "https://huggingface.co/robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3/resolve/030c06e33a8b8feb094b0a92f023ddd80599793e/.gitattributes"
+        },
+        {
+          "path": "README.md",
+          "size_bytes": 171,
+          "git_blob_id": "5e6b9557fa7397781d7a3d99f582bea0aad47c76",
+          "url": "https://huggingface.co/robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3/resolve/030c06e33a8b8feb094b0a92f023ddd80599793e/README.md"
+        },
+        {
+          "path": "config.json",
+          "size_bytes": 1548,
+          "git_blob_id": "343185a8b5713692317eed657dc9ac7e36a64483",
+          "url": "https://huggingface.co/robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3/resolve/030c06e33a8b8feb094b0a92f023ddd80599793e/config.json"
+        },
+        {
+          "path": "model.safetensors",
+          "size_bytes": 377510632,
+          "git_blob_id": "7ea5699ce4e7b3b6ef6f1c29cb8af41ea0da67c3",
+          "url": "https://huggingface.co/robinwitch/hf_transformer_mhubert_base_vp_en_es_fr_it3/resolve/030c06e33a8b8feb094b0a92f023ddd80599793e/model.safetensors",
+          "server_reported_lfs_sha256": "0b166eb3144c4f7f4495f863c79cd08a6842d5fa4b43cebf43377ce5cc6c16ff"
+        }
+      ]
+    }
+  ],
+  "totals_bytes": {
+    "one_body_folder": 1335168404,
+    "three_rvq_files": 399158969,
+    "face_file": 382222347,
+    "mhubert_folder_including_metadata": 377513870,
+    "all_ckpts_including_both_body_variants": 3451718124,
+    "one_body_with_rvq_face_mhubert": 2494063590,
+    "one_body_with_shared_components_and_encodec": 2587235119
+  },
+  "encodec": {
+    "url": "https://dl.fbaipublicfiles.com/encodec/v0/encodec_24khz-d7cc33bc.th",
+    "size_bytes_from_prior_HEAD": 93171529,
+    "local_source": "refers/encodec/encodec/model.py"
+  },
+  "body_configuration": {
+    "architectures": [
+      "Qwen2ForCausalLM"
+    ],
+    "attention_dropout": 0.0,
+    "bos_token_id": 151643,
+    "dtype": "bfloat16",
+    "eos_token_id": 151645,
+    "hidden_act": "silu",
+    "hidden_size": 896,
+    "initializer_range": 0.02,
+    "intermediate_size": 4864,
+    "layer_types": [
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention",
+      "full_attention"
+    ],
+    "max_position_embeddings": 32768,
+    "max_window_layers": 21,
+    "model_type": "qwen2",
+    "num_attention_heads": 14,
+    "num_hidden_layers": 24,
+    "num_key_value_heads": 2,
+    "rms_norm_eps": 1e-06,
+    "rope_scaling": null,
+    "rope_theta": 1000000.0,
+    "sliding_window": null,
+    "tie_word_embeddings": false,
+    "transformers_version": "4.56.2",
+    "use_cache": true,
+    "use_sliding_window": false,
+    "vocab_size": 166690
+  },
+  "license_observation": "Both HF API responses have cardData null and neither repository lists a LICENSE or COPYING file. The mHuBERT README describes conversion to Hugging Face SafeTensors and provides no license statement. This does not establish a weight license or erase upstream obligations."
+}

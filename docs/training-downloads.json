@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "started_at_utc": "2026-10-29T14:34:34.058554+00:00",
+  "local_only": true,
+  "archive_directory": "downloads/training-data/",
+  "status": "verified",
+  "max_parallel_downloads": 2,
+  "total_expected_bytes": 5327832144,
+  "redistribution": "Archives are local-only and excluded from Git. This provenance manifest does not grant redistribution rights. Motorica terms prohibit unauthorized redistribution.",
+  "validation_scope": "Published Git LFS SHA-256 and byte size for all three ZeroEGGS archive parts; byte size, locally computed SHA-256 and complete CRC/decompression test for both standalone FBX ZIPs. No extraction.",
+  "archives": [
+    {
+      "id": "zeroeggs-z01",
+      "subdir": "zeroeggs-original",
+      "filename": "Zeggs_data.z01",
+      "url": "https://media.githubusercontent.com/media/ubisoft/ubisoft-laforge-ZeroEGGS/4992d9ab5e28bc4bb13219a598906562f5786448/data/Zeggs_data.z01",
+      "expected_size_bytes": 1048576000,
+      "expected_sha256": "1e26f661887a19b32acb5014f412d93ea8ce3b8f6184bfb90d78a07764cdff33",
+      "revision": "4992d9ab5e28bc4bb13219a598906562f5786448",
+      "kind": "split_zip_part",
+      "terms_url": "https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS/blob/4992d9ab5e28bc4bb13219a598906562f5786448/License.md",
+      "status": "verified",
+      "local_only": true,
+      "local_path": "downloads/training-data/zeroeggs-original/Zeggs_data.z01",
+      "started_at_utc": "2026-10-29T14:34:34.060007+00:00",
+      "actual_size_bytes": 1048576000,
+      "actual_sha256": "1e26f661887a19b32acb5014f412d93ea8ce3b8f6184bfb90d78a07764cdff33",
+      "validation": {
+        "size_match": true,
+        "sha256_match": true,
+        "sha256_reference": "published Git LFS pointer",
+        "zip_integrity": {
+          "status": "not_independently_tested",
+          "reason": "Multipart archive; all three parts are checked against published byte sizes and SHA-256 values."
+        }
+      },
+      "completed_at_utc": "2026-10-29T14:35:02.999628+00:00",
+      "elapsed_seconds": 28.94
+    },
+    {
+      "id": "zeroeggs-z02",
+      "subdir": "zeroeggs-original",
+      "filename": "Zeggs_data.z02",
+      "url": "https://media.githubusercontent.com/media/ubisoft/ubisoft-laforge-ZeroEGGS/4992d9ab5e28bc4bb13219a598906562f5786448/data/Zeggs_data.z02",
+      "expected_size_bytes": 1048576000,
+      "expected_sha256": "3cc3bbe92aa5c90a4b4f0c4fbc0ba8fae7c9cceafb660b575a318c320cd6deb8",
+      "revision": "4992d9ab5e28bc4bb13219a598906562f5786448",
+      "kind": "split_zip_part",
+      "terms_url": "https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS/blob/4992d9ab5e28bc4bb13219a598906562f5786448/License.md",
+      "status": "verified",
+      "local_only": true,
+      "local_path": "downloads/training-data/zeroeggs-original/Zeggs_data.z02",
+      "started_at_utc": "2026-10-29T14:34:34.059836+00:00",
+      "actual_size_bytes": 1048576000,
+      "actual_sha256": "3cc3bbe92aa5c90a4b4f0c4fbc0ba8fae7c9cceafb660b575a318c320cd6deb8",
+      "validation": {
+        "size_match": true,
+        "sha256_match": true,
+        "sha256_reference": "published Git LFS pointer",
+        "zip_integrity": {
+          "status": "not_independently_tested",
+          "reason": "Multipart archive; all three parts are checked against published byte sizes and SHA-256 values."
+        }
+      },
+      "completed_at_utc": "2026-10-29T14:35:02.365898+00:00",
+      "elapsed_seconds": 28.306
+    },
+    {
+      "id": "zeroeggs-zip",
+      "subdir": "zeroeggs-original",
+      "filename": "Zeggs_data.zip",
+      "url": "https://media.githubusercontent.com/media/ubisoft/ubisoft-laforge-ZeroEGGS/4992d9ab5e28bc4bb13219a598906562f5786448/data/Zeggs_data.zip",
+      "expected_size_bytes": 672547515,
+      "expected_sha256": "edfe4037e2bf45ffade7b50bb30fe0b2f1d8776f3e8440809d5a1d1fb457d8b4",
+      "revision": "4992d9ab5e28bc4bb13219a598906562f5786448",
+      "kind": "split_zip_final_part",
+      "terms_url": "https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS/blob/4992d9ab5e28bc4bb13219a598906562f5786448/License.md",
+      "status": "verified",
+      "local_only": true,
+      "local_path": "downloads/training-data/zeroeggs-original/Zeggs_data.zip",
+      "started_at_utc": "2026-10-29T14:35:02.366521+00:00",
+      "actual_size_bytes": 672547515,
+      "actual_sha256": "edfe4037e2bf45ffade7b50bb30fe0b2f1d8776f3e8440809d5a1d1fb457d8b4",
+      "validation": {
+        "size_match": true,
+        "sha256_match": true,
+        "sha256_reference": "published Git LFS pointer",
+        "zip_integrity": {
+          "status": "not_independently_tested",
+          "reason": "Multipart archive; all three parts are checked against published byte sizes and SHA-256 values."
+        }
+      },
+      "completed_at_utc": "2026-10-29T14:35:19.940238+00:00",
+      "elapsed_seconds": 17.574
+    },
+    {
+      "id": "zeroeggs-retarget-fbx",
+      "subdir": "zeroeggs-retarget",
+      "filename": "fbx.zip",
+      "url": "https://theorangeduck.com/media/uploads/Geno/zeroeggs-retarget/fbx.zip",
+      "expected_size_bytes": 979140084,
+      "expected_sha256": null,
+      "revision": null,
+      "kind": "zip",
+      "terms_url": "https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS/blob/4992d9ab5e28bc4bb13219a598906562f5786448/License.md",
+      "source_page": "https://github.com/orangeduck/zeroeggs-retarget",
+      "status": "verified",
+      "local_only": true,
+      "local_path": "downloads/training-data/zeroeggs-retarget/fbx.zip",
+      "started_at_utc": "2026-10-29T14:35:03.000179+00:00",
+      "actual_size_bytes": 979140084,
+      "actual_sha256": "1032668006474f72334eca35f66b2396b995f19a5a0a4d4f0bfe17a65eda0ade",
+      "validation": {
+        "size_match": true,
+        "sha256_match": null,
+        "sha256_reference": "No publisher checksum found; local SHA-256 recorded",
+        "zip_integrity": {
+          "status": "pass",
+          "method": "Python zipfile.testzip: all members decompressed and CRC checked without extraction",
+          "member_count": 135,
+          "uncompressed_size_bytes": 1045924080
+        }
+      },
+      "completed_at_utc": "2026-10-29T14:35:44.276870+00:00",
+      "elapsed_seconds": 41.277
+    },
+    {
+      "id": "motorica-retarget-fbx",
+      "subdir": "motorica-retarget",
+      "filename": "fbx.zip",
+      "url": "https://theorangeduck.com/media/uploads/Geno/motorica-retarget/fbx.zip",
+      "expected_size_bytes": 1578992545,
+      "expected_sha256": null,
+      "revision": null,
+      "kind": "zip",
+      "terms_url": "https://github.com/simonalexanderson/MotoricaDanceDataset#terms-of-use",
+      "source_page": "https://github.com/orangeduck/motorica-retarget",
+      "status": "verified",
+      "local_only": true,
+      "local_path": "downloads/training-data/motorica-retarget/fbx.zip",
+      "started_at_utc": "2026-10-29T14:35:19.940952+00:00",
+      "actual_size_bytes": 1578992545,
+      "actual_sha256": "37caf7287f5fe94c1aefba282fcefff1765cf41cee7d62a18375b363e0d09b6a",
+      "validation": {
+        "size_match": true,
+        "sha256_match": null,
+        "sha256_reference": "No publisher checksum found; local SHA-256 recorded",
+        "zip_integrity": {
+          "status": "pass",
+          "method": "Python zipfile.testzip: all members decompressed and CRC checked without extraction",
+          "member_count": 122,
+          "uncompressed_size_bytes": 1629660144
+        }
+      },
+      "completed_at_utc": "2026-10-29T14:35:58.247984+00:00",
+      "elapsed_seconds": 38.307
+    }
+  ],
+  "completed_at_utc": "2026-10-29T14:35:58.248722+00:00"
+}

@@ -1,0 +1,1574 @@
+{
+  "archive": "echoavatar_unity.zip",
+  "archive_sha256": "ebb70e8dfc33a0121fc1e03216a4e86ca514e80b2e89a9df7655504e7842d1ed",
+  "archive_full_crc_integrity": "pass",
+  "source_revision": "69cb06bf4918f1c52cc276ca796bbff97c643b70",
+  "extracted_paths": [
+    "echoavatar_unity/Assets",
+    "echoavatar_unity/Packages",
+    "echoavatar_unity/ProjectSettings"
+  ],
+  "other_archive_contents": "Full original Library, build, Logs and UserSettings preserved in the ZIP; not expanded as authored project sources.",
+  "files": [
+    {
+      "path": "echoavatar_unity/Assets/AX_female/AX_female2.fbx",
+      "bytes": 12340016,
+      "sha256": "05b02fa6ae857c84ae4ddda82c28f0cbeaa07ae78358b54200474f91f720ec2b",
+      "archive_crc32": "c8255e7a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/AX_female2.fbx.meta",
+      "bytes": 2861,
+      "sha256": "5dd5b2aab0046a8c8b538791123bbf53bb20f81ba17a3f2f126fb142c8f3d046",
+      "archive_crc32": "4d07e77f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/AX_female2.mb",
+      "bytes": 170461080,
+      "sha256": "0fb39d412171ed06a82452a9d883eb0709595ffac183a17e48dc3e8120b12547",
+      "archive_crc32": "9744e583"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/AX_female2.mb.meta",
+      "bytes": 2861,
+      "sha256": "128597411b9853e0074a16504c0726b183c07c060f851c641323b72540b7a78f",
+      "archive_crc32": "e21b4587"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_color.psd",
+      "bytes": 3256423,
+      "sha256": "a11182bcf18dea605bec5d5d491ab6f802bfb293681163f54c31e2f8d4233e8d",
+      "archive_crc32": "20fb10ef"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_color.psd.meta",
+      "bytes": 2652,
+      "sha256": "b85842fd39445ac880a5deffd8ab0882b737995e18230ef6617eaf828361f246",
+      "archive_crc32": "0fbae358"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_color.tga",
+      "bytes": 4194348,
+      "sha256": "7e7abbd014cef4f267d71c279f601670c0228e8d8a08f9a6bcd01a6b7bbbb445",
+      "archive_crc32": "161b7bbe"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "79a45cc306be24ea1934837b907b4807e3f90a1855d547e7222c98d79d448811",
+      "archive_crc32": "33cce84e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "1096b50bfe5e7277159a999f44269a02a599ccd56e8add4a58aad98c974b518d",
+      "archive_crc32": "ad99ba74"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "5b0813ddafc865bd6a5f4a1ff7c15bcd37a34192bd327cac4b252e18ad4f7d42",
+      "archive_crc32": "ef409dfc"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_normal.tga",
+      "bytes": 3145772,
+      "sha256": "b6fb9b00f8f92ab13838ba787b9038634b507ddedac9f8ac9c95d68b3cd8e222",
+      "archive_crc32": "ef7a40d1"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/body_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "5f50b6d1801bca5f0780c730d3e9b22fdc7cdc7b29e99f73ac77d0f769b57e2b",
+      "archive_crc32": "0ebb4481"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/brow000_mat_01_color.tga",
+      "bytes": 236,
+      "sha256": "293b1c024f2cfb00b6017ee80922259e5d13a1384dbd8da82affc07fa3c5d2ea",
+      "archive_crc32": "3ff1f7ee"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/brow000_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "99beb9ea697421be9cc721c4ddac3d9da93b014db79a4d4384c79f58331f27a8",
+      "archive_crc32": "062e21d2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eyelash_016.tga",
+      "bytes": 4194348,
+      "sha256": "a66614610383b57e8dcbb26236d8b54ab32968e9efb28453c711f9e80c834a3d",
+      "archive_crc32": "78878689"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eyelash_016.tga.meta",
+      "bytes": 2652,
+      "sha256": "ba1802a993ff19fef1ff86bee1f73114b484686baef5e5fc778b421bca29e09e",
+      "archive_crc32": "040eb77d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eyelish_mrao.tga",
+      "bytes": 236,
+      "sha256": "2a61d9e43339acaf646a1f4646f9007a0ebeeb55b62a0714a859761548e654d3",
+      "archive_crc32": "1cdf1011"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eyelish_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "171748bb32d99db916b0ca843107623417000c1aa8277f4f6585eba96d880a70",
+      "archive_crc32": "d699b194"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eye_color.tga",
+      "bytes": 786476,
+      "sha256": "2708815848ccae5f0a2cf272515a6a4f32c8229fc6eeb4ae89a29132784f83ea",
+      "archive_crc32": "23df38b9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eye_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "9e9cc3d22a34689320b2cb53297d20f704e3e8efc559d090120451f51b3a2395",
+      "archive_crc32": "c71554d3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eye_mask.tga",
+      "bytes": 786476,
+      "sha256": "ec7663dad4f779182e0a7cd59d328fe444859673e2f1a00f7a147b731871b781",
+      "archive_crc32": "173118fb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/eye_mask.tga.meta",
+      "bytes": 2652,
+      "sha256": "4ff806e86673e2870abaa8cf6463706e40d0751c1358ef817c290da49d3cce8d",
+      "archive_crc32": "b18c5470"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_color.psd",
+      "bytes": 4011372,
+      "sha256": "36d42504441511d9bdcf1c9e59ffaa4d4098ee6483a1fe2c2a478f16e79d2d8a",
+      "archive_crc32": "f92f2b76"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_color.psd.meta",
+      "bytes": 2652,
+      "sha256": "b2a79fe013c3e5299f48c7d12ae3d47b06b355c4933c4b7335f2579e69f838d3",
+      "archive_crc32": "76ac9705"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_color.tga",
+      "bytes": 4194348,
+      "sha256": "00033161886d7efddf4e328e34714ac7755065b5568ff3a667ff75b3928af0ed",
+      "archive_crc32": "b979a146"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "b623fe2eac4f01666102c9e1432aa572555f9d59bca0a50e2380efa719cf1921",
+      "archive_crc32": "0d83c801"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_Mask.tga",
+      "bytes": 236,
+      "sha256": "c278ea75ba0fa7392251ad00a1dfd1c069df4583a52e0aacf882135dcd44b639",
+      "archive_crc32": "109117dc"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_Mask.tga.meta",
+      "bytes": 2652,
+      "sha256": "171b1285b807933a4546836b30f3db697e275bf265e58299dee01de2edc2497d",
+      "archive_crc32": "fb4c0e32"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_mrao.tga",
+      "bytes": 236,
+      "sha256": "4dcd836280dc587dfbc9efdd66fe9933fa2ee6a936b1042f8b99993af7630eaa",
+      "archive_crc32": "059fca5b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "941a977ddbea1b4161406823db1dd36942cc7d3ea24df5d4d7c5847fa6de7fff",
+      "archive_crc32": "34310673"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_normal.tga",
+      "bytes": 3145746,
+      "sha256": "180fb88337c392794b26d0d33697da813f12faa36eb0a09ed9f3cd87da521d37",
+      "archive_crc32": "c7bb1ac9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hair001_mat_01_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "4ff7da3cfbd0eca6822f7783bcd8f99756ad831dbf75a6125ce8e437d45e6a3b",
+      "archive_crc32": "5e64d543"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "0dd8b083e5d708b93fd6dc8af1fe4ca01691ce3890e52173d662caf18c6665bb",
+      "archive_crc32": "02c3f111"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "9100331e8bacf4f05dfb3d40b9341049719c47f79e89923f0d90b09e270867cc",
+      "archive_crc32": "59ac297d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "7c5ed1b6d459009af2933bf80443be45e4bd1add3114b0377b492af22d6a8429",
+      "archive_crc32": "c39e6fd4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "d632a5132a69b4563e5a2a912aed6ee6e7f8de0958c3d54197b74366eb25e1b9",
+      "archive_crc32": "e4ffe141"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_normal.tga",
+      "bytes": 3145772,
+      "sha256": "e9ebee81b56f8a406b5a6e17539209e5cc9daf7e4121bb52d23d8c5972943dc0",
+      "archive_crc32": "e799e599"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/hat002_mat_01_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "f10d3d81d1741094a83c723c9d1c5b0f20526c71bf320d0e8b17d99b122e1217",
+      "archive_crc32": "76721e82"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_color.psd",
+      "bytes": 2179767,
+      "sha256": "c4ea7df9a468ed69ae3929e3e2fc8bf99feb01a4973078fcd2a8bd09686054e0",
+      "archive_crc32": "f266a44a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_color.psd.meta",
+      "bytes": 2652,
+      "sha256": "ea95ca6b627d898877b66a438a2493574d24640200d8eb1810f29899f2e2999e",
+      "archive_crc32": "8e599897"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_color.tga",
+      "bytes": 4194348,
+      "sha256": "f3b6c9c90da7fba248b181d097b46f36e6cfde421dc43c58836fcf7b2bcf144a",
+      "archive_crc32": "f4b727be"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "541178962a111032c8b4781a04c0f37d6956aa2ba6981953187c734f2fbcb09f",
+      "archive_crc32": "c102b6c1"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "c3e0513362b0f4fa904da466b30fcff615c8e667121dfe226d3e318aa6950724",
+      "archive_crc32": "5f298acb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "4f7efe5a3f99ede5a7373de1dc3e957ad7e6933409657efcc36fa7cc35417da0",
+      "archive_crc32": "977f53ca"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_normal.tga",
+      "bytes": 3145772,
+      "sha256": "b6751c93af5f57c8413f1e334b194f522a3b1fe507fff9d5b864d9c74d9c3fff",
+      "archive_crc32": "318ed04b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/head_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "69b0389911878712d2e1957039b4f80b9874c6acad3865747e71d4c0bffe3bfa",
+      "archive_crc32": "b6d8e29c"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "187764ab8ed4f0b207f0c9066ce93daa4f5065c3f05a83ffc9867155b16a3ecc",
+      "archive_crc32": "a387c5c6"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "95c8bf3d84358e9ba64f05cd587cced36d5e8923364cdabc8933ab08749deb11",
+      "archive_crc32": "492ece54"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_mrao.tga",
+      "bytes": 210,
+      "sha256": "6e7a616a0495627cb1c994d3a89171d9ea5c92b68476434cf0838c5345e39fc9",
+      "archive_crc32": "c6bf5ef0"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "645da1db76e2d440aa281a47eeee50d168cbac9a45d43da42da7b90d049879f1",
+      "archive_crc32": "4a2abff2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_normal.tga",
+      "bytes": 210,
+      "sha256": "6fdb44b4d84d0c2228950523be40c8703bc121541835f4549a9d8be7de641457",
+      "archive_crc32": "7c3680c9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shirt003_mat_01_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "f99e52d390cd5996954874e901a9f800a3865c8e8902d034b908faa1e9a7b5de",
+      "archive_crc32": "90f16689"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_color.tga",
+      "bytes": 16777260,
+      "sha256": "0d11a31757be13addbefa6c7999e9b1887e822425dd81e6fc5c79661a4c6e6a0",
+      "archive_crc32": "4d725df8"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "93fd91ae3c3552488a31ee7a465e9168fe03585ca74e00a350ce4628ed43df0a",
+      "archive_crc32": "75db62c9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_mrao.tga",
+      "bytes": 16777260,
+      "sha256": "ba0d3cac4b8e7a9d19001bc3201d445e5b5e9e20bad2d8dff3a8723c1a55d02d",
+      "archive_crc32": "44d2ca17"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "4af943e96326545090bf8a1b95560dacdd26ca8d7695ddef9b1b89cc4c000c8b",
+      "archive_crc32": "d0f0b047"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_normal.tga",
+      "bytes": 12582956,
+      "sha256": "01b364fcb1f9baebd0ee1dbbf30f1a76d589671be607ae261165550dc0ab36df",
+      "archive_crc32": "b0ae24af"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shoes006_mat_01_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "74ce417c2df944345c50b79d6d346ea91fa9aa3791e2f788edf51deb8a284959",
+      "archive_crc32": "24c90417"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "c623fcc0ef1f6490decbbcbfed0e09f49ae6aad628b06605cfd9d6da742538ff",
+      "archive_crc32": "b3415c3d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_color.tga.meta",
+      "bytes": 2652,
+      "sha256": "06842241b924fe640314ae82aad8f2e7f7893698385588777df58ff20839cfc0",
+      "archive_crc32": "c12a2d51"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "30dd1ae4c088e0edd673ca0960b21ee4aa2b872c99c493977876556e8ad34c1e",
+      "archive_crc32": "7d7b3ff5"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_mrao.tga.meta",
+      "bytes": 2652,
+      "sha256": "51dfb9d0b6c09d4dc06ec5b426f3689b01800c63bf0632dbb49f88c70afe95ab",
+      "archive_crc32": "bdbc4089"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_normal.tga",
+      "bytes": 3145772,
+      "sha256": "9a9583a59a710249ab273f1c18e02ee478372e35f6e52f2a1ad1751dc6742ee5",
+      "archive_crc32": "0e52ada9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female/shorts009_mat_01_normal.tga.meta",
+      "bytes": 2652,
+      "sha256": "1d9ac64242892cc8ae01f25a69abd148d93504f76aa8450e35a29957bd3ee957",
+      "archive_crc32": "129c75a7"
+    },
+    {
+      "path": "echoavatar_unity/Assets/AX_female.meta",
+      "bytes": 172,
+      "sha256": "77e7ac4faac327fd8d5b242fe6b3b33fd7ac01f6c95795bfed0895659518a4cb",
+      "archive_crc32": "77a6b644"
+    },
+    {
+      "path": "echoavatar_unity/Assets/envs/New Material.mat",
+      "bytes": 3692,
+      "sha256": "a5b4331722a135e109e9a014c292fbefb212c1f82927ea1015f37d2dfda57555",
+      "archive_crc32": "dd610ef1"
+    },
+    {
+      "path": "echoavatar_unity/Assets/envs/New Material.mat.meta",
+      "bytes": 188,
+      "sha256": "348d47575b9f98d3a7ce980fa6953a5f2751f7eab08c4812dc212b0f28476693",
+      "archive_crc32": "9d29fcf7"
+    },
+    {
+      "path": "echoavatar_unity/Assets/envs.meta",
+      "bytes": 172,
+      "sha256": "1ed5ec5819d313b7aca032d647eb77d021d20ba905957494d7b4461eb0f155a3",
+      "archive_crc32": "d869c5cb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/AX_female2.fbx",
+      "bytes": 12340016,
+      "sha256": "05b02fa6ae857c84ae4ddda82c28f0cbeaa07ae78358b54200474f91f720ec2b",
+      "archive_crc32": "c8255e7a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/AX_female2.fbx.meta",
+      "bytes": 2784,
+      "sha256": "945e5f55bb639453b9b3e0c93f7f446dfa10066b6e1a8ddd26f53d8166f5c20d",
+      "archive_crc32": "98763e93"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/AX_female2.mb",
+      "bytes": 170461080,
+      "sha256": "0fb39d412171ed06a82452a9d883eb0709595ffac183a17e48dc3e8120b12547",
+      "archive_crc32": "9744e583"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/AX_female2.mb.meta",
+      "bytes": 2784,
+      "sha256": "6ef8147efe67cb7e0cbcfdc426856a73b87ea7ec76d8978df517e21ac63350c9",
+      "archive_crc32": "54b5c547"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_color.psd",
+      "bytes": 3256423,
+      "sha256": "a11182bcf18dea605bec5d5d491ab6f802bfb293681163f54c31e2f8d4233e8d",
+      "archive_crc32": "20fb10ef"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_color.psd.meta",
+      "bytes": 3364,
+      "sha256": "f1bcbc1a55b57c22b021c499b182dc92b6b9751a7b4491c3e2ea67df9ab26006",
+      "archive_crc32": "6ea39c0e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_color.tga",
+      "bytes": 4194348,
+      "sha256": "7e7abbd014cef4f267d71c279f601670c0228e8d8a08f9a6bcd01a6b7bbbb445",
+      "archive_crc32": "161b7bbe"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "fffd33ed4e5a7312aaf2ecf2fc85981818fd152185d42af79c7311041c873fa7",
+      "archive_crc32": "2afae816"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "1096b50bfe5e7277159a999f44269a02a599ccd56e8add4a58aad98c974b518d",
+      "archive_crc32": "ad99ba74"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "f4d6adb4d35bf62c2a4306111b9b5fb1d7bf7e1d73e92ced3a543630323962d6",
+      "archive_crc32": "caaf892f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_normal.tga",
+      "bytes": 3145772,
+      "sha256": "b6fb9b00f8f92ab13838ba787b9038634b507ddedac9f8ac9c95d68b3cd8e222",
+      "archive_crc32": "ef7a40d1"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/body_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "79a463c3082d202a89cdc23af39b2d3ff9b649fb3c7a43bcc686c6e1fe83553e",
+      "archive_crc32": "e8e91a90"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/brow000_mat_01_color.tga",
+      "bytes": 236,
+      "sha256": "293b1c024f2cfb00b6017ee80922259e5d13a1384dbd8da82affc07fa3c5d2ea",
+      "archive_crc32": "3ff1f7ee"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/brow000_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "9a9f521d67263551fc91853602e74d47650fa1a0d97a0d0e95a4728c7bee04ef",
+      "archive_crc32": "91854ad2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eyelash_016.tga",
+      "bytes": 4194348,
+      "sha256": "a66614610383b57e8dcbb26236d8b54ab32968e9efb28453c711f9e80c834a3d",
+      "archive_crc32": "78878689"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eyelash_016.tga.meta",
+      "bytes": 3364,
+      "sha256": "bf4551c7635c7ba2dbb572802926a32b1e0ae71605c9ee302d17eb37fc6b0704",
+      "archive_crc32": "828ff8e8"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eyelish_mrao.tga",
+      "bytes": 236,
+      "sha256": "2a61d9e43339acaf646a1f4646f9007a0ebeeb55b62a0714a859761548e654d3",
+      "archive_crc32": "1cdf1011"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eyelish_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "e523af009483a92de01fd7ac71a09d21140b071b2cc80f52aa11b262f8800803",
+      "archive_crc32": "3bda56cd"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eye_color.tga",
+      "bytes": 786476,
+      "sha256": "2708815848ccae5f0a2cf272515a6a4f32c8229fc6eeb4ae89a29132784f83ea",
+      "archive_crc32": "23df38b9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eye_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "bfdc2aae5cb348c80cbfd1e2b4f08985e92c62ce53704ee59daf18e3e5bfff79",
+      "archive_crc32": "310ac08a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eye_mask.tga",
+      "bytes": 786476,
+      "sha256": "ec7663dad4f779182e0a7cd59d328fe444859673e2f1a00f7a147b731871b781",
+      "archive_crc32": "173118fb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/eye_mask.tga.meta",
+      "bytes": 3364,
+      "sha256": "f1912166995763f53eab40f721b5d8d6eb3fe292692305ce23515ff95c459cd7",
+      "archive_crc32": "030e5a93"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_color.psd",
+      "bytes": 4011372,
+      "sha256": "36d42504441511d9bdcf1c9e59ffaa4d4098ee6483a1fe2c2a478f16e79d2d8a",
+      "archive_crc32": "f92f2b76"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_color.psd.meta",
+      "bytes": 3364,
+      "sha256": "12cc8817c1630529a67c3497442ed7f4f3d86958f4e054ff13339d3ef898fdeb",
+      "archive_crc32": "6e79fecb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_color.tga",
+      "bytes": 4194348,
+      "sha256": "00033161886d7efddf4e328e34714ac7755065b5568ff3a667ff75b3928af0ed",
+      "archive_crc32": "b979a146"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "51c729ee8801dd6aaac829013252bf69f3dc68c79297470f7b443f1c87cce640",
+      "archive_crc32": "42633570"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_Mask.tga",
+      "bytes": 236,
+      "sha256": "c278ea75ba0fa7392251ad00a1dfd1c069df4583a52e0aacf882135dcd44b639",
+      "archive_crc32": "109117dc"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_Mask.tga.meta",
+      "bytes": 3364,
+      "sha256": "7da84249e55a7beb7f9f0634302232a4c6194ef4d2365c3ad9d944705d4ad26c",
+      "archive_crc32": "4dcd90ad"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_mrao.tga",
+      "bytes": 236,
+      "sha256": "4dcd836280dc587dfbc9efdd66fe9933fa2ee6a936b1042f8b99993af7630eaa",
+      "archive_crc32": "059fca5b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "f48f1bc184e55689bd9e786e369786ca187a2c3e5a302bf8828cccc5031962b7",
+      "archive_crc32": "ccacb6af"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_normal.tga",
+      "bytes": 3145746,
+      "sha256": "180fb88337c392794b26d0d33697da813f12faa36eb0a09ed9f3cd87da521d37",
+      "archive_crc32": "c7bb1ac9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hair001_mat_01_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "942754c614db8fda1a0f39bce88db2228096a7827247f589599681f69e72b62c",
+      "archive_crc32": "18bbf128"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "0dd8b083e5d708b93fd6dc8af1fe4ca01691ce3890e52173d662caf18c6665bb",
+      "archive_crc32": "02c3f111"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "4a10a1650756af027d62f9cc5d902794de97fa3cff268053dcec20acbb4f2473",
+      "archive_crc32": "115ca579"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "7c5ed1b6d459009af2933bf80443be45e4bd1add3114b0377b492af22d6a8429",
+      "archive_crc32": "c39e6fd4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "2cd321e87d1f80cd26524a97a6ca64dfbc367f2978b52bffa48af5d0c689865f",
+      "archive_crc32": "d584f3e3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_normal.tga",
+      "bytes": 3145772,
+      "sha256": "e9ebee81b56f8a406b5a6e17539209e5cc9daf7e4121bb52d23d8c5972943dc0",
+      "archive_crc32": "e799e599"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/hat002_mat_01_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "2f2d9d83b00252f97aaa2348efd42557d5b62c193d521ba18aa5c8c19c93029f",
+      "archive_crc32": "28aab3d0"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_color.psd",
+      "bytes": 2179767,
+      "sha256": "c4ea7df9a468ed69ae3929e3e2fc8bf99feb01a4973078fcd2a8bd09686054e0",
+      "archive_crc32": "f266a44a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_color.psd.meta",
+      "bytes": 3364,
+      "sha256": "bfb9c42f4b00295eb8e05435abf28b8adbc4f8a5d80da896af5a0563880c3d71",
+      "archive_crc32": "b50ca20a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_color.tga",
+      "bytes": 4194348,
+      "sha256": "f3b6c9c90da7fba248b181d097b46f36e6cfde421dc43c58836fcf7b2bcf144a",
+      "archive_crc32": "f4b727be"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "0ae92e3cba1b3ff421fbcc578febb6854923f3469f3b6cb3e17e535702c63ac7",
+      "archive_crc32": "8c8b25e2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "c3e0513362b0f4fa904da466b30fcff615c8e667121dfe226d3e318aa6950724",
+      "archive_crc32": "5f298acb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "eec903e59198730e7e38f5768e0814f079d016f3038382e343be95fdaf806fcb",
+      "archive_crc32": "19468938"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_normal.tga",
+      "bytes": 3145772,
+      "sha256": "b6751c93af5f57c8413f1e334b194f522a3b1fe507fff9d5b864d9c74d9c3fff",
+      "archive_crc32": "318ed04b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/head_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "2c39c2728ab3f8e04b7c39e014e7ea7569f727559f5ebe47ec5750cc9a21d3a7",
+      "archive_crc32": "df81894f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "187764ab8ed4f0b207f0c9066ce93daa4f5065c3f05a83ffc9867155b16a3ecc",
+      "archive_crc32": "a387c5c6"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "2cd8773fd8c9c739a09f4462270424e9aa1512b1b21dd8a8e7ed8d72a4d9efca",
+      "archive_crc32": "3678007c"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_mrao.tga",
+      "bytes": 210,
+      "sha256": "6e7a616a0495627cb1c994d3a89171d9ea5c92b68476434cf0838c5345e39fc9",
+      "archive_crc32": "c6bf5ef0"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "f07d0c5d0c59b4920aa7bce3d6fc14f00e1d516c9f90673509e3b496974679fc",
+      "archive_crc32": "78667185"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_normal.tga",
+      "bytes": 210,
+      "sha256": "6fdb44b4d84d0c2228950523be40c8703bc121541835f4549a9d8be7de641457",
+      "archive_crc32": "7c3680c9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shirt003_mat_01_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "1d8ef2a61d57a671063d918bd92fd6a65cd66332b9a18d4d9501074ba430e59f",
+      "archive_crc32": "80b6d263"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_color.tga",
+      "bytes": 16777260,
+      "sha256": "0d11a31757be13addbefa6c7999e9b1887e822425dd81e6fc5c79661a4c6e6a0",
+      "archive_crc32": "4d725df8"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "773f28ce26c74f25be03ba813e8553fe62643ab00a86a76d44cc9ca597c95b15",
+      "archive_crc32": "9c8bd33e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_mrao.tga",
+      "bytes": 16777260,
+      "sha256": "ba0d3cac4b8e7a9d19001bc3201d445e5b5e9e20bad2d8dff3a8723c1a55d02d",
+      "archive_crc32": "44d2ca17"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "97b943bbdf2a08ad2ab979ea4bd1e140eea0285e054af6ebd3146d622b1101ed",
+      "archive_crc32": "63d018a9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_normal.tga",
+      "bytes": 12582956,
+      "sha256": "01b364fcb1f9baebd0ee1dbbf30f1a76d589671be607ae261165550dc0ab36df",
+      "archive_crc32": "b0ae24af"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shoes006_mat_01_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "356b93558cde2d0eb6fc0d698b97d87670476c32849e5d331d15396deed15052",
+      "archive_crc32": "6fc20e6b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_color.tga",
+      "bytes": 3145772,
+      "sha256": "c623fcc0ef1f6490decbbcbfed0e09f49ae6aad628b06605cfd9d6da742538ff",
+      "archive_crc32": "b3415c3d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_color.tga.meta",
+      "bytes": 3364,
+      "sha256": "f2ae80b7480f25e4496eb55bc04dbcb9b4b095035ed696bd52c181e2f522222d",
+      "archive_crc32": "eee50276"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_mrao.tga",
+      "bytes": 3145772,
+      "sha256": "30dd1ae4c088e0edd673ca0960b21ee4aa2b872c99c493977876556e8ad34c1e",
+      "archive_crc32": "7d7b3ff5"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_mrao.tga.meta",
+      "bytes": 3364,
+      "sha256": "54f04de384a9a71bf70a88599ab587ffad75183a1d41588a9ac768b2e00d2302",
+      "archive_crc32": "925b2dfb"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_normal.tga",
+      "bytes": 3145772,
+      "sha256": "9a9583a59a710249ab273f1c18e02ee478372e35f6e52f2a1ad1751dc6742ee5",
+      "archive_crc32": "0e52ada9"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2/shorts009_mat_01_normal.tga.meta",
+      "bytes": 3364,
+      "sha256": "1e43d9d06401dbe25276607c86c7feb05787bfedb6c99eb18214876d4d017b63",
+      "archive_crc32": "71e26cbf"
+    },
+    {
+      "path": "echoavatar_unity/Assets/fbx2.meta",
+      "bytes": 172,
+      "sha256": "40bb50d15d45d9e270159d6582e8482c5ccff13cf25ebd26c7d916bb59462614",
+      "archive_crc32": "4753cb33"
+    },
+    {
+      "path": "echoavatar_unity/Assets/InputSystem_Actions.inputactions",
+      "bytes": 41023,
+      "sha256": "e1a275cd8885d7b569901924b4c8cd91382bcbbd38df787e228802deec38fa20",
+      "archive_crc32": "512fe624"
+    },
+    {
+      "path": "echoavatar_unity/Assets/InputSystem_Actions.inputactions.meta",
+      "bytes": 376,
+      "sha256": "3b4e424a80f5b4fa76b6abd774884a24285eaa61f22ff9bb20e5ad505fd8b569",
+      "archive_crc32": "1963c3ea"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Light 1.mat",
+      "bytes": 4000,
+      "sha256": "a93d6e958a8c5bce4a0858247f0912d0e58ce4e7ff9f0f924c96cfcddb156fae",
+      "archive_crc32": "4029d48e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Light 1.mat.meta",
+      "bytes": 188,
+      "sha256": "df4818a864ef2ca11368f530a4cfdec22a630ff303d046f70f51887167a268e4",
+      "archive_crc32": "70f94ee4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Light.mat",
+      "bytes": 3998,
+      "sha256": "399201cd16cd073cda88d900e1cae2238d86c49a586b393643c9f835a56bb303",
+      "archive_crc32": "62f1c489"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Light.mat.meta",
+      "bytes": 188,
+      "sha256": "d6c557d5994cd8f3bd85ae810eb1bce61b0af756a8ef60a049e9cecec0ba3e17",
+      "archive_crc32": "7021f06a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/LightBase.mat",
+      "bytes": 3855,
+      "sha256": "2dc426ebbc0eb408e54ae790203ca749a1fc3c14318f80daf85ea0e3cc1ed06c",
+      "archive_crc32": "23ed6c0b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/LightBase.mat.meta",
+      "bytes": 188,
+      "sha256": "8d4e4c3a9c8ff6ed0053259a712750d03f46a2aaa21ec341bffe835819012e72",
+      "archive_crc32": "e3b0be4e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/200f499233fe891d32d5b90a346c9ce.mat",
+      "bytes": 3847,
+      "sha256": "d292a63cc5242ebc6ad8a3b702c048933f8abb18e0a6e7bb0adc8eca2e857a11",
+      "archive_crc32": "96ce6fc8"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/200f499233fe891d32d5b90a346c9ce.mat.meta",
+      "bytes": 188,
+      "sha256": "c7e9da71391bb64c6167dfd4dd248b4e14ee6ebaa74d8cf1ddd326c547068036",
+      "archive_crc32": "5c6bee47"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/6c56e3d5f8a8ab7c897f9fe1ac84804.mat",
+      "bytes": 3934,
+      "sha256": "48ae58bcdb6f678beedba603859a2e898604843e67a522d10be44a54a8b2fa99",
+      "archive_crc32": "f1477e25"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/6c56e3d5f8a8ab7c897f9fe1ac84804.mat.meta",
+      "bytes": 188,
+      "sha256": "4468d7302d645fb2837ab5765804f5d6bbf510fa39839ad026f00892786deba8",
+      "archive_crc32": "e8d54639"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/Gemini_Generated_Image_qtf8n3qtf8n3qtf8.mat",
+      "bytes": 3718,
+      "sha256": "70805c46fd9de414292fca8393da8567904bc8c9499a2af8deb217d508cd03c4",
+      "archive_crc32": "6f097b30"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/Gemini_Generated_Image_qtf8n3qtf8n3qtf8.mat.meta",
+      "bytes": 188,
+      "sha256": "caf2c0060013a191863c6d6fd5191399c0c8645b8d5cc62f74f451ec6b057c9b",
+      "archive_crc32": "3a33a4a0"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/Gemini_Generated_Image_qtf8n3qtf8n3qtf9.mat",
+      "bytes": 3864,
+      "sha256": "4d3615cf501b15bb809f7e09a3c096f1ba8cb6f9fbb727a8b7a1c62a76a80c65",
+      "archive_crc32": "afda485f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials/Gemini_Generated_Image_qtf8n3qtf8n3qtf9.mat.meta",
+      "bytes": 188,
+      "sha256": "7b9c1a17572288ea4a4ec88a6d70376f36baab4bc09439983e24e39ee9a31206",
+      "archive_crc32": "94f35767"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Materials.meta",
+      "bytes": 172,
+      "sha256": "b6ee8c172d7b7b80ec9e745e36d028a8521d5a5d06e795aa0af35e334442bc9e",
+      "archive_crc32": "8d1a0e19"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.Core.dll",
+      "bytes": 187904,
+      "sha256": "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8",
+      "archive_crc32": "77ab1d53"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.Core.dll.meta",
+      "bytes": 59,
+      "sha256": "9750bfb303e530b8543e9ee6c3711591696ba2a98a1d28dbbccda98a20bf0b23",
+      "archive_crc32": "77f69902"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.dll",
+      "bytes": 7680,
+      "sha256": "8bf0f2e8dadf3967757191c2212c269333ccd9d7e59839eea968212c64787be9",
+      "archive_crc32": "61512725"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.dll.meta",
+      "bytes": 59,
+      "sha256": "07b2793ace0430b14a6dc9aec53c261817eb7fa539d77840fee63e19a0c00eea",
+      "archive_crc32": "287c0837"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.Wasapi.dll",
+      "bytes": 179200,
+      "sha256": "618ef0e49d64e7a66dfe64bbf6ae81705b9d9683d8a9f321e5c3024d666bdf82",
+      "archive_crc32": "b07435ea"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.Wasapi.dll.meta",
+      "bytes": 59,
+      "sha256": "df556fbaaf63281d34ebdb3b1981937a284ae6e2ca9fb0b916a8b6f275d9bb65",
+      "archive_crc32": "3716970d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.WinMM.dll",
+      "bytes": 57344,
+      "sha256": "749a01ebbb5edd8b1a03c5263b04de6acadecf52e4cc84d7412bc6e93f180958",
+      "archive_crc32": "5efe0f32"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins/NAudio.WinMM.dll.meta",
+      "bytes": 59,
+      "sha256": "42bd74d3787797ebd1d835208d6850a75148f6070f743e79ead2b46603da3f97",
+      "archive_crc32": "de145c19"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Plugins.meta",
+      "bytes": 172,
+      "sha256": "9abd8c71c0dcf4d3e5a2425d4c20a6f3a40aa3e3375a564db11a60fe8d5107b4",
+      "archive_crc32": "631c4b79"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Readme.asset",
+      "bytes": 1144,
+      "sha256": "6d098604e909b6a0e64fe5910c2719704864d49678bcf5413bd47b67e5490107",
+      "archive_crc32": "5b3539c3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Readme.asset.meta",
+      "bytes": 182,
+      "sha256": "46c6b89ac1d47bd0c0d1a8b141ae3e32cd95d3e74c49381f0d9f942488c254ce",
+      "archive_crc32": "bdd9b473"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Resources/PerformanceTestRunInfo.json",
+      "bytes": 2836,
+      "sha256": "b1fbd7f34b9ad67cedae2a03b7ae5b48bd0d8be07d09aa886d6061fba20af968",
+      "archive_crc32": "0186b194"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Resources/PerformanceTestRunInfo.json.meta",
+      "bytes": 158,
+      "sha256": "ecd004ac1acd771c6441256b0025c6a2a4f582cfc090788e2289fbf52c61898c",
+      "archive_crc32": "07e55321"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Resources/PerformanceTestRunSettings.json",
+      "bytes": 23,
+      "sha256": "600c5c3dab7e18e51c28aad096457da91fcf60a3eedd908b6bf30194dae2b55b",
+      "archive_crc32": "d860cfcf"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Resources/PerformanceTestRunSettings.json.meta",
+      "bytes": 158,
+      "sha256": "e98131655d97f946c8d7373b0d902233f1c1a3a6713aaa843387e1ec66b5bf08",
+      "archive_crc32": "dcda5e14"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Resources.meta",
+      "bytes": 172,
+      "sha256": "8a70556e83d95a75dc3080899a51dfcdaeb6991ff0cd69299b99403f6b8acf16",
+      "archive_crc32": "12950082"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/BG Scene 2.unity",
+      "bytes": 44809,
+      "sha256": "4f8125a8e7a8f455a06eaa1a53306720d896cf3d5a9538eaa340ff0d92ee5382",
+      "archive_crc32": "f55e3855"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/BG Scene 2.unity.meta",
+      "bytes": 155,
+      "sha256": "e00585ebc5bcfe725ba13df07a365efdd478e5aec31d51fafc6b4f3756152aec",
+      "archive_crc32": "24f9e684"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/LightingData.asset",
+      "bytes": 18177,
+      "sha256": "deb1e87052f03fc5ca9526a9f273550792ca181a7981799a13cc4cc8b556f3f3",
+      "archive_crc32": "7b83fb56"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/LightingData.asset.meta",
+      "bytes": 190,
+      "sha256": "c8568463ec9f22699ec4eba6f7bd7065b7268abf604870c1b03d807a1cdba1b6",
+      "archive_crc32": "aec551c3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png",
+      "bytes": 222025,
+      "sha256": "d6ddac21498b187e41819de97302dfc339c600a00cf0a48b83a06ae464ed05f7",
+      "archive_crc32": "7871037e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png.meta",
+      "bytes": 2653,
+      "sha256": "56de5e9270ca20c0daa3556114318b7b2b7d4fb666c86378223def3a3c12e964",
+      "archive_crc32": "f49f7c59"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr",
+      "bytes": 9940544,
+      "sha256": "c1bb8b5866ac883818c15a5ec563b0821a1e8c4d2cc5a75d2109469bf4d76f80",
+      "archive_crc32": "16d80c7d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr.meta",
+      "bytes": 2652,
+      "sha256": "11159781d17b785f52f132f1519166c45fa4eabfc2b1af8a7a1772f9ac29b883",
+      "archive_crc32": "373e0427"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png",
+      "bytes": 96439,
+      "sha256": "6a06b8118b2e673305c56ed327110d48cd1eb4062a452ba50f267e29e830c829",
+      "archive_crc32": "44cf919a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png.meta",
+      "bytes": 2653,
+      "sha256": "8b0e080b46f07018d15ab8b9e874ab81ea1b32148d9131f6a83dae68d3350ee2",
+      "archive_crc32": "da2edd98"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr",
+      "bytes": 3398781,
+      "sha256": "84341853461a87f589ca677969ecb71e2a4ef7eabe8b081e831bc3f5c44a4a82",
+      "archive_crc32": "132b044c"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr.meta",
+      "bytes": 2652,
+      "sha256": "52aaba6545fe1312507246ed53b074f48115775058c3f8494a290db36b807956",
+      "archive_crc32": "c1629078"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/ReflectionProbe-0.exr",
+      "bytes": 163904,
+      "sha256": "9c9986507088423203a1f1e5465224c95be0ef9b17e4abc7b7c8951e5cd5efa9",
+      "archive_crc32": "89ef4fe4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta",
+      "bytes": 2653,
+      "sha256": "ccae11076ee33832a8a57fbfdaa87677118c3655deb1f2162506a8100970f678",
+      "archive_crc32": "5e11f45a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes/SampleScene.meta",
+      "bytes": 172,
+      "sha256": "759bc910e8505a12fe4c45a31ad5751c12d20d2e635817b8d75f35254d6065cc",
+      "archive_crc32": "d707ce31"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Scenes.meta",
+      "bytes": 172,
+      "sha256": "9fb7632ba39b1c8f31eabbee52677f6d2b19e6ee9e191fc98e9d1483531f1cdd",
+      "archive_crc32": "0fcb86bd"
+    },
+    {
+      "path": "echoavatar_unity/Assets/scripts/StreamingServerFaceBodyAutoStartPushWav.cs",
+      "bytes": 28051,
+      "sha256": "b5a8e1666992b81d6da921a11cdbc193343471ec0ad2b4907603ae8197d672d6",
+      "archive_crc32": "ea9b20aa"
+    },
+    {
+      "path": "echoavatar_unity/Assets/scripts/StreamingServerFaceBodyAutoStartPushWav.cs.meta",
+      "bytes": 59,
+      "sha256": "9a4722a703b18d14fd66bae37758edd9c9707c77d782dab8daf3cbfc0a6de946",
+      "archive_crc32": "f6babaa2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/scripts.meta",
+      "bytes": 172,
+      "sha256": "c6bc66498fd113ba06f2619baf9c62c18474469856264177945fb89d13dfebc1",
+      "archive_crc32": "0deb4300"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Build Profiles/New Windows Profile.asset",
+      "bytes": 41805,
+      "sha256": "972796d5f866fda025a3e7a19c29c2ea95bea2c650fb0cac1b03b8c1596097da",
+      "archive_crc32": "15fec3e4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Build Profiles/New Windows Profile.asset.meta",
+      "bytes": 189,
+      "sha256": "9f08413b743eccb05d5d16c990be6e970f26106eeddffc7e84df3e6a8e8a3f6a",
+      "archive_crc32": "8d585272"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Build Profiles.meta",
+      "bytes": 172,
+      "sha256": "18ce7af17c93914a963099ea966fd2dca65b77d244a7cde10fad8b7949bacc2b",
+      "archive_crc32": "4946095b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/DefaultVolumeProfile.asset",
+      "bytes": 24035,
+      "sha256": "463776c51ae49d4fef980e8fd268081b2f505610d79315003faae1acff8f4115",
+      "archive_crc32": "2469480f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/DefaultVolumeProfile.asset.meta",
+      "bytes": 189,
+      "sha256": "efbcb026cee6b8e32fdf27018c06b0515296a6ccbb43969e792fea270310700a",
+      "archive_crc32": "466cf771"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Mobile_Renderer.asset",
+      "bytes": 1713,
+      "sha256": "aa93274c9521fa941170becec9e87c5fa36b8587eefd5eeb5c0eed0d1d4b1dbe",
+      "archive_crc32": "31e3a89b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Mobile_Renderer.asset.meta",
+      "bytes": 189,
+      "sha256": "a148ee2b4987b05b8ff7ae5f9bf84916184f77aefddc821dceb551f5a69f8179",
+      "archive_crc32": "2e532a1a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Mobile_RPAsset.asset",
+      "bytes": 4345,
+      "sha256": "077b30c366ee79c2b0906284297c3433c470b59a7bca563801901512d6cabf64",
+      "archive_crc32": "43d30a96"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/Mobile_RPAsset.asset.meta",
+      "bytes": 189,
+      "sha256": "53ea46647712c615fd1a3f2e0dddfa8559eeedc649e9a1dbf93ff913de28544c",
+      "archive_crc32": "d2f4f0ef"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/PC_Renderer.asset",
+      "bytes": 3439,
+      "sha256": "3d0b01d8ded3327263b6690be128a3de58d17c514943ae42fe743a3e084a9c79",
+      "archive_crc32": "33c47463"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/PC_Renderer.asset.meta",
+      "bytes": 189,
+      "sha256": "b5df8ddb2708c6ed4c133a5ff9ee95a75cc20e4ee3ed6181366a61aedbaf31ec",
+      "archive_crc32": "b3a2b923"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/PC_RPAsset.asset",
+      "bytes": 4486,
+      "sha256": "e8f035d512099beb0e12f5e604f7a378d9c24397cecfed6b5f8cc76688e4b966",
+      "archive_crc32": "1e7231b6"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/PC_RPAsset.asset.meta",
+      "bytes": 189,
+      "sha256": "bb469b9b6f318e9e9bed29c3b2e73e79371c04743c6f95dd6603941f1cd3e53e",
+      "archive_crc32": "3f1c55b4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/SampleSceneProfile.asset",
+      "bytes": 3703,
+      "sha256": "a8677d4bac051d24caa11cd622e39f968155ee277bfce132274f1de225692fe9",
+      "archive_crc32": "cdab0042"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/SampleSceneProfile.asset.meta",
+      "bytes": 182,
+      "sha256": "2e23abc214069f0adbf2b2207f1db54be7876629ec2a3681d0f4aa5b61622ef0",
+      "archive_crc32": "e04fff21"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset",
+      "bytes": 25472,
+      "sha256": "7d587f2ecb08cbd303b14161983e04c8958c93cc0d871270be1b0595f4f84f49",
+      "archive_crc32": "c844ee32"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta",
+      "bytes": 189,
+      "sha256": "f61661d8bc8dbe531daf09f6211ef978c7ba145c9207c8e76524396ae0722d7c",
+      "archive_crc32": "0dba3002"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Settings.meta",
+      "bytes": 172,
+      "sha256": "73c8e19843240273facb0af6bdbf430d719e397aded705629594060ce25ce7ad",
+      "archive_crc32": "7dbaebae"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/floor.mat",
+      "bytes": 3912,
+      "sha256": "6c65458ad2e7614ee8e91e1a5fbb7fec64fd6fa7dfd28747bad5097489acdc11",
+      "archive_crc32": "0163d05b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/floor.mat.meta",
+      "bytes": 188,
+      "sha256": "30d54d641428cc936ca1ac162951e36b4baea5de065d08f644d6c4d7a83d0cb1",
+      "archive_crc32": "4174578e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/GridFloor.shader",
+      "bytes": 2471,
+      "sha256": "709b7d533b796973cca5a4b2384c4d4005f175f286093683f1c9e7996e07de60",
+      "archive_crc32": "b45cffcf"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/GridFloor.shader.meta",
+      "bytes": 204,
+      "sha256": "96964974476e097f587aefacbf10ba3f835054dd87405f1a4f664ffce62b2191",
+      "archive_crc32": "9b81522b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/New Material.mat",
+      "bytes": 3692,
+      "sha256": "2edaddfa9cc463f5641af18842c82fa3fcc4b905942096a5bd67621f7e2c73b5",
+      "archive_crc32": "ebac60d2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/New Material.mat.meta",
+      "bytes": 188,
+      "sha256": "32598fee03c6b254e26cb86e0fbe4b4548b2b693b4208509e21207e6555695bc",
+      "archive_crc32": "3c901de3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/shadow.mat",
+      "bytes": 3770,
+      "sha256": "cd0e5073b3200c18a26960d8fb4cac51599fa95ffb436567fff2810439a4c88b",
+      "archive_crc32": "eb09174a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/shadow.mat.meta",
+      "bytes": 188,
+      "sha256": "25092b0d283445d4f8948f2359246bb15d7c73326090f27528233a9fd65cdf45",
+      "archive_crc32": "32322fc2"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/ShadowCatcher.shader",
+      "bytes": 2507,
+      "sha256": "25903e6232e090637b13f31d285fd3e0caed6f9152f9094650ea95cd1e53e3a9",
+      "archive_crc32": "39bd169d"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders/ShadowCatcher.shader.meta",
+      "bytes": 204,
+      "sha256": "1e83239f9003ce20605df890501277c45d9797951bd4dbc1cb10e99d7895d6f6",
+      "archive_crc32": "6d0019c8"
+    },
+    {
+      "path": "echoavatar_unity/Assets/Shaders.meta",
+      "bytes": 172,
+      "sha256": "8cac7300aa9a1adce7b81603fba284de4feff2d8dfc1d4f41c2e0ae9bd343ad9",
+      "archive_crc32": "9a44910e"
+    },
+    {
+      "path": "echoavatar_unity/Assets/sig_bg.mat",
+      "bytes": 3685,
+      "sha256": "07082d8b70bbfef3e1690b43ba5475803530cc4ed14388e05098447a0e51a5bf",
+      "archive_crc32": "5cdbf502"
+    },
+    {
+      "path": "echoavatar_unity/Assets/sig_bg.mat.meta",
+      "bytes": 188,
+      "sha256": "19bff759b9d6307d4003ef1efc16cebea2a0eb2c8cdf185e0d7654adddace497",
+      "archive_crc32": "93f8ce23"
+    },
+    {
+      "path": "echoavatar_unity/Assets/StageCircle.mat",
+      "bytes": 3989,
+      "sha256": "d10d52ccedda8b29f38dd5bb1ce4f74ab0d2d6b68014ecc4f47e0508c91b0c76",
+      "archive_crc32": "2f87ba78"
+    },
+    {
+      "path": "echoavatar_unity/Assets/StageCircle.mat.meta",
+      "bytes": 188,
+      "sha256": "0d3a0c84c18554e6daa3e142a911f1460a72833fd9d3155d339b3eba310965f8",
+      "archive_crc32": "5488fc42"
+    },
+    {
+      "path": "echoavatar_unity/Assets/StageGround.mat",
+      "bytes": 3858,
+      "sha256": "142621ee69122ab0dd995d6da2d3b750e0c9747d3c3820e704c47ec42b0d2e49",
+      "archive_crc32": "38289f92"
+    },
+    {
+      "path": "echoavatar_unity/Assets/StageGround.mat.meta",
+      "bytes": 188,
+      "sha256": "81b94a2aae4583779e65c4622413a0a94d070dc4745ca73657fb8cc4e68ee944",
+      "archive_crc32": "bd6b0944"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Icons/URP.png",
+      "bytes": 24069,
+      "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9",
+      "archive_crc32": "366d892f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Icons/URP.png.meta",
+      "bytes": 3156,
+      "sha256": "b330f1fcfc4e6ceccc95fc34a38434141603469b135633e1c4e8a03c19f9fdbc",
+      "archive_crc32": "a824bf78"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Icons.meta",
+      "bytes": 193,
+      "sha256": "546e7d7af6b4d5e17d284c8f1188d05472e681911b8359905ee9b9e20769a106",
+      "archive_crc32": "2763e901"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Layout.wlt",
+      "bytes": 15479,
+      "sha256": "0a18bf035aa7ce914f19f7ce6b60a5a2d33e2371af6f492a8ea7a1bc78755b8b",
+      "archive_crc32": "195b93fc"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Layout.wlt.meta",
+      "bytes": 176,
+      "sha256": "b8745a251df078ffa75dbaac0c4c6debecb61ab306b5b119a490ce6c635a11d8",
+      "archive_crc32": "de7f2fc3"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+      "bytes": 6677,
+      "sha256": "d2023934bc2be23af69cd930ade85eff41c5db0a6f6666b05324b975befdb5b5",
+      "archive_crc32": "2aca6de7"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta",
+      "bytes": 264,
+      "sha256": "f59080b424c16fa13edd105bf006fdbad98c11fce0c921043e63c8877f144cd9",
+      "archive_crc32": "908de42a"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts/Editor.meta",
+      "bytes": 193,
+      "sha256": "7036bdbc8af05799b5fd508484343b35c28a68b390198da4673d34357d7d667f",
+      "archive_crc32": "2b989896"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts/Readme.cs",
+      "bytes": 302,
+      "sha256": "c09c93844f93eb252a6fb39c222d169c63a63e96008fd040b9e7628c3e7ccc2e",
+      "archive_crc32": "5a6fe08f"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts/Readme.cs.meta",
+      "bytes": 317,
+      "sha256": "80a3df9969fab6e656583ee9bbca884d0507e2b7de3417f6ea3118fba901cd60",
+      "archive_crc32": "3d1ff1b4"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo/Scripts.meta",
+      "bytes": 193,
+      "sha256": "930d0c8276cea1559a3e315f8500ea6ca8b58d980eee3b44aaa1d461742c47e0",
+      "archive_crc32": "ae7f8a1b"
+    },
+    {
+      "path": "echoavatar_unity/Assets/TutorialInfo.meta",
+      "bytes": 172,
+      "sha256": "07f022e5932c833d026e020b27d73452ebd781993b616d76003494af1e140946",
+      "archive_crc32": "ccbae45d"
+    },
+    {
+      "path": "echoavatar_unity/Packages/manifest.json",
+      "bytes": 1962,
+      "sha256": "83d6a12313023e4897054cc30306301211834c23c96b0c6c23e143ecb500cb0c",
+      "archive_crc32": "4c8f2cbc"
+    },
+    {
+      "path": "echoavatar_unity/Packages/packages-lock.json",
+      "bytes": 12500,
+      "sha256": "6ac205fda56fe89d2d3d61a4ea8f970003cf7aca58ed7a64902f81e5f0e02292",
+      "archive_crc32": "f2f0799b"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/AudioManager.asset",
+      "bytes": 413,
+      "sha256": "aeedeb3243f07b61dbbe854aa08b5ef6f0b5274dd9852ad9f6129dde3e105a31",
+      "archive_crc32": "b9dc8f07"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/ClusterInputManager.asset",
+      "bytes": 114,
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623",
+      "archive_crc32": "66850074"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/DynamicsManager.asset",
+      "bytes": 1254,
+      "sha256": "b7c9a9dc08b98990109d4346f68745e15e238de400f96c583e53e1c83c743a78",
+      "archive_crc32": "3298843a"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/EditorBuildSettings.asset",
+      "bytes": 400,
+      "sha256": "1b1651727c6cb11ebfce5312245a653f3677881dc530f0b7e2dfe62ac5844c82",
+      "archive_crc32": "e5cd0f52"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/EditorSettings.asset",
+      "bytes": 1545,
+      "sha256": "1ef9414984ae135d74e2d05dfbeb10a04ca7f8434b867c2b2053f46b78a365a6",
+      "archive_crc32": "17f95093"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/GraphicsSettings.asset",
+      "bytes": 2554,
+      "sha256": "56c816bd980ca4b9c5a33f5ef233bcaea6c08505a1af65ac5e5e633ce8bad6fe",
+      "archive_crc32": "5f4bb343"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/InputManager.asset",
+      "bytes": 9731,
+      "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2",
+      "archive_crc32": "0738adbe"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/MemorySettings.asset",
+      "bytes": 1192,
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd",
+      "archive_crc32": "586a934d"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/MultiplayerManager.asset",
+      "bytes": 157,
+      "sha256": "aba89fd1a1ddad182727ad82727e536d27372e90328a8196da2a4560398983dd",
+      "archive_crc32": "794a0fd1"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/NavMeshAreas.asset",
+      "bytes": 1308,
+      "sha256": "80106cfa7e6181a1928b142c075f3e510d527441e3d79bc83590e4ac91e7cd66",
+      "archive_crc32": "ed4c5a4f"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/PackageManagerSettings.asset",
+      "bytes": 1044,
+      "sha256": "ce642fc44d0569635aedbb2bd2c93184f5a8b165dacb320738552d73f4f01ad6",
+      "archive_crc32": "af0b997d"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/Physics2DSettings.asset",
+      "bytes": 2028,
+      "sha256": "e3cbdbf0be15244b7b67d2f07bdb8e8981911c11a8c7fe8035f5261272fec658",
+      "archive_crc32": "59206318"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/PresetManager.asset",
+      "bytes": 146,
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c",
+      "archive_crc32": "074b52dc"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/ProjectSettings.asset",
+      "bytes": 25178,
+      "sha256": "ae753a9a84f30719a7d686de9d0dbc27e80d783cc1449ceeed6b214505c05fd7",
+      "archive_crc32": "489006a8"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/ProjectVersion.txt",
+      "bytes": 85,
+      "sha256": "8cd85b1f4d056dae27f1a072812aaefaee67957bf1c07bfb150c1f52f4331374",
+      "archive_crc32": "a3b0682f"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/QualitySettings.asset",
+      "bytes": 3662,
+      "sha256": "6814d6cc3eb850dd7d2a069a8b17ba9f7591deba8b1758a855978bd9c8627643",
+      "archive_crc32": "b37a25c6"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/SceneTemplateSettings.json",
+      "bytes": 3535,
+      "sha256": "bb9098b3bfcde78d93e264b96f7b77b5430e64e8c57a7aad7f5a5d9c3945e16a",
+      "archive_crc32": "a39fc88f"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/ShaderGraphSettings.asset",
+      "bytes": 556,
+      "sha256": "cdba1e5d65bcf6e3269d76ed3e60b6c21f98322002996642c9d74f1eb89f6b91",
+      "archive_crc32": "3ec926fb"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/TagManager.asset",
+      "bytes": 657,
+      "sha256": "23fc56b484aa3d7edf5914cd3591f7a823ccef5e3f3496f8a51f30388ead63dc",
+      "archive_crc32": "16566022"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/TimelineSettings.asset",
+      "bytes": 436,
+      "sha256": "aa31f1f85dd0705af72e9a02b1e35c42c34c9c39d512660e51444de0ca2117a3",
+      "archive_crc32": "07bead09"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/TimeManager.asset",
+      "bytes": 202,
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd",
+      "archive_crc32": "9d0451be"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/UnityConnectSettings.asset",
+      "bytes": 943,
+      "sha256": "d6034acbef6c9e3179866486c31eab81fcbe5e7ed350ce71e0fa2b1449b77109",
+      "archive_crc32": "92de350f"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/URPProjectSettings.asset",
+      "bytes": 411,
+      "sha256": "596d5c8bf4f957b03684c949bebc252ae1918f25415a1147a00684c4b086efda",
+      "archive_crc32": "f3ecf873"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/VersionControlSettings.asset",
+      "bytes": 188,
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071",
+      "archive_crc32": "8745c010"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/VFXManager.asset",
+      "bytes": 308,
+      "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e",
+      "archive_crc32": "31f81551"
+    },
+    {
+      "path": "echoavatar_unity/ProjectSettings/XRSettings.asset",
+      "bytes": 158,
+      "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f",
+      "archive_crc32": "228b19ee"
+    }
+  ]
+}

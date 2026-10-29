@@ -1,0 +1,1 @@
+This model is converted from mhubert_base_vp_en_es_fr_it3.pt into the Hugging Face SafeTensors format, enabling direct loading with HubertModel.from_pretrained(ckpt_path).
